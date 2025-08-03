@@ -8,14 +8,38 @@
     <!--- ==================== CSS ===================== -->
     <link rel="stylesheet" href="src/css/style.css" />
   </head>
-  <body>
-    <main>
-      <button
-        class="bg-sky-700 px-4 py-2 text-white hover:bg-sky-800 sm:px-8 sm:py-3"
-      >
-        Submit
-      </button>
-      <div></div>
+  <body class="bg-red-500">
+    <main class="grid h-screen place-items-center">
+      <div class="relative flex">
+        <div class="relative">
+          <div
+            class="relative flex h-28 w-28 items-center justify-center rounded-full bg-white"
+          >
+            <div
+              class="absolute z-10 h-18 w-18 rounded-full border-5 border-red-500"
+            ></div>
+          </div>
+          <div
+            class="relative flex h-28 w-28 -translate-y-10 items-center justify-center rounded-full bg-white"
+          >
+            <div
+              class="h-18 w-18 -translate-y-1 rounded-full border-5 border-red-500"
+            ></div>
+          </div>
+          <div
+            class="absolute top-[40%] left-1/2 h-24 w-6 -translate-1/2 rounded-full bg-red-500"
+          ></div>
+        </div>
+        <div
+          class="relative z-20 flex h-[11.5rem] w-28 -translate-x-3.5 items-center justify-center rounded-full bg-white"
+        >
+          <div
+            class="grid h-36 w-18 place-items-center rounded-full border-5 border-red-500"
+          >
+            <div class="h-24 w-6 rounded-full bg-red-500"></div>
+          </div>
+        </div>
+      </div>
     </main>
   </body>
 </html>
