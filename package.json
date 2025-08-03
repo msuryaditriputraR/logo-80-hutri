@@ -1,7 +1,7 @@
 {
   "name": "logo-80-hutri",
   "version": "1.0.0",
-  "description": "The 80th anniversary logo of Republic of Indonesia",
+  "description": "The 80th anniversary logo of the Republic of Indonesia",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
