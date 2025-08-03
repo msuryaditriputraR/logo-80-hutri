@@ -1,0 +1,25 @@
+{
+  "name": "logo-80-hutri",
+  "version": "1.0.0",
+  "description": "The 80th anniversary logo of Republic of Indonesia",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msuryaditriputraR/logo-80-hutri.git"
+  },
+  "keywords": [
+    "css",
+    "tailwind",
+    "logo",
+    "indonesia"
+  ],
+  "author": "@msuryaditriputraR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msuryaditriputraR/logo-80-hutri/issues"
+  },
+  "homepage": "https://github.com/msuryaditriputraR/logo-80-hutri#readme"
+}
